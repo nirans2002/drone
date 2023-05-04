@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/albin/DRONE/catkin_ws/devel/lib/libFlightTaskManualPositionSmoothVel.a  CMakeFiles/FlightTaskManualPositionSmoothVel.dir/FlightTaskManualPositionSmoothVel.cpp.o
+/usr/bin/ranlib /home/albin/DRONE/catkin_ws/devel/lib/libFlightTaskManualPositionSmoothVel.a

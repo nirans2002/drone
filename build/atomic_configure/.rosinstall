@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/albin/DRONE/catkin_ws/devel/setup.sh

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/albin/DRONE/catkin_ws/devel/lib/libSlewRate.a  CMakeFiles/SlewRate.dir/dummy.cpp.o
+/usr/bin/ranlib /home/albin/DRONE/catkin_ws/devel/lib/libSlewRate.a
